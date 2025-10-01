@@ -15,3 +15,28 @@ Además, la aplicación integra el calendario escolar completo del ciclo académ
 | :---        |    :----:   | 
 | Jaime Osorio      | [jaime-osorio](https://github.com/Guillermo-UD/POO-Proyecto-Equipo6/tree/jaime-osorio) |
 | Guillermo Moises | [guillermo-moises](https://github.com/Guillermo-UD/POO-Proyecto-Equipo6/tree/guillermo-moises) |
+| Wilmon Solis | [Wilmon-Solis](https://github.com/Guillermo-UD/POO-Proyecto-Equipo6/tree/Wimon-Solis) |
+
+
+# Rama de Guillermo Moises
+### En esta rama se encuentran los siguientes apartados
+1. [Descripcion del producto y la propuesta de valor](https://github.com/Guillermo-UD/POO-Proyecto-Equipo6/blob/guillermo-moises/Descripción%20del%20producto%20y%20Propuesta%20de%20valor.md)
+2. [Requerimientos Funcionales y No Funcionales](https://github.com/Guillermo-UD/POO-Proyecto-Equipo6/blob/guillermo-moises/Requisitos%20funcionales.md)
+
+   en esta rama se encuentra lo que es la descripcion del producto y la propuesta de valor del proyecto, asi como los requerimientos funcionales y no funcionales del sistema
+
+# Rama de Jaime Osorio
+### En esta rama se encuentran los siguientes apartados
+1. [La descripcion del proceso](https://github.com/Guillermo-UD/POO-Proyecto-Equipo6/blob/jaime-osorio/Proceso.md)
+
+en donde se podra encontrar el como se gestiono el equipo, la gestion del proceso y la metrica de contribuicion individual, metrica de contribuicion por actividad y la metrica de contribuicion por contribuyente
+
+# Rama de Wilmon Solis
+### En esta rama se encuentran los siguientes apartados
+1. [Artefactos](https://github.com/Guillermo-UD/POO-Proyecto-Equipo6/blob/Wimon-Solis/Artefactos.docx)
+2. [Priorizacion](https://github.com/Guillermo-UD/POO-Proyecto-Equipo6/blob/Wimon-Solis/Priorización.docx)
+3. [Proceso de abstracción](https://github.com/Guillermo-UD/POO-Proyecto-Equipo6/blob/Wimon-Solis/Proceso%20de%20abstracción.docx)
+
+en esta rama se encuentran los artefactos del proyecto, el metodo de priorizacion de los requerimientos y el proceso de abstraccion
+
+
